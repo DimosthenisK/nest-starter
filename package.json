@@ -26,13 +26,16 @@
     "@nestjs/platform-express": "^6.0.0",
     "@nestjs/platform-socket.io": "^6.3.2",
     "@nestjs/swagger": "^3.0.2",
+    "@nestjs/typeorm": "^6.1.2",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.9.1",
+    "mysql": "^2.17.1",
     "nest-status-monitor": "^0.1.1",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
     "rxjs": "^6.3.3",
-    "swagger-ui-express": "^4.0.6"
+    "swagger-ui-express": "^4.0.6",
+    "typeorm": "^0.2.18"
   },
   "devDependencies": {
     "@nestjs/testing": "^6.0.0",
